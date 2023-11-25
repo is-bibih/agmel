@@ -4,7 +4,7 @@ Se puede descaargar una versión comprimida del repositorio desde Google Drive: 
 
 Incluye las geometrías ya generadas.
 
-# Generaación de geometrías
+# Generación de geometrías
 
 Para generar la geometría desde cero, primero navegar al directorio relevante.
 Por ejemplo, para la marmita sin modificaciones:
